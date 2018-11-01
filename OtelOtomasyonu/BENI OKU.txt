@@ -1,3 +1,0 @@
-1) Müþteri eklemede sorunlar var.
-2) Tedarikçi,SatinAlma,SatinAlmaDetay IU Yapýlmadý 
-3)SAtis ve SatisDetay dan esinlen..
