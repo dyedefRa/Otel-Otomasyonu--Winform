@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\obj\Debug\Tools.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\Tools\obj\Debug\Tools.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\obj\Debug\Tools.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\Tools\obj\Debug\Tools.pdb

@@ -1,0 +1,53 @@
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.exe.config
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.exe
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.Properties.Resources.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.exe
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.Form1.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.KasaForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.BirimTipForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.KategoriForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.UrunlerForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaTurForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OzelliklerForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaOzellikForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.MusteriForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.PersonelForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.GirisYapForm.resources
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.SatisForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.IU.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.BirimTipForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.Form1.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.GirisYapForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.KasaForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.KategoriForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.MusteriForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaOzellikForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OdaTurForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.OzelliklerForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.PersonelForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.Properties.Resources.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.SatisForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.UrunlerForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.IU\obj\Debug\OtelOtomasyonu.IU.pdb

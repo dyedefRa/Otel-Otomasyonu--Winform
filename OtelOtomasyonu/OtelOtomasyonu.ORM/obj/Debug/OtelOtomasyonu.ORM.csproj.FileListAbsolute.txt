@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\bin\Debug\Tools.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\bin\Debug\Tools.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\OtelOtomasyonu-ibo\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb
